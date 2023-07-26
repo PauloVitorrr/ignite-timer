@@ -1,7 +1,14 @@
+import { Button } from "./components/Button";
 
 export function App() {
 
   return (
-    <h1>Olá mundo!</h1>
+    <>
+      <Button/>
+      <Button/>
+      <Button/>
+      <Button/>
+      <Button/>
+    </>
   )
 }
